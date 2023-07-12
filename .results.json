@@ -5,9 +5,9 @@
     "passes": 11,
     "pending": 0,
     "failures": 2,
-    "start": "2023-07-11T19:38:41.791Z",
-    "end": "2023-07-11T19:38:42.299Z",
-    "duration": 508
+    "start": "2023-07-12T13:55:49.777Z",
+    "end": "2023-07-12T13:55:50.264Z",
+    "duration": 487
   },
   "tests": [
     {
@@ -27,14 +27,14 @@
     {
       "title": "calculates distances below 42nd street",
       "fullTitle": "index.js distanceFromHqInBlocks() calculates distances below 42nd street",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "returns a distance in feet",
       "fullTitle": "index.js distanceFromHqInFeet() returns a distance in feet",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -161,14 +161,14 @@
     {
       "title": "calculates distances below 42nd street",
       "fullTitle": "index.js distanceFromHqInBlocks() calculates distances below 42nd street",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "returns a distance in feet",
       "fullTitle": "index.js distanceFromHqInFeet() returns a distance in feet",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
